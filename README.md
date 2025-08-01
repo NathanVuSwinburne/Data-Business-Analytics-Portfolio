@@ -70,6 +70,85 @@ This dashboard allows executives to filter by department, gender, age group, yea
 
 ---
 
+# 📊 2 – Contoso Sales & Customer Service Dashboard  
+
+## 📖 User Story – Contoso Sales & Customer Service Dashboard
+CEO department of the Contoso Ec-ommerce business need a single interactive dashboard to understand the company's sales performance and customer service efficiency so that they can make strategic decisions to boost revenue and improve client satisfaction.
+
+Goals:
+Track overall sales performance – How many opportunities are open, won, or lost? Are we meeting revenue KPIs?
+
+Identify which products, campaigns, and regions contribute the most revenue so we can focus resources effectively.
+
+Understand deal win/loss factors – Which sales reps, discounts, and campaigns lead to the highest success rates?
+
+See who our top revenue-generating clients are so we can reward loyalty and strengthen relationships.
+
+Monitor customer service performance – Track satisfaction, escalation rates, SLA compliance, and case resolution times.
+
+Gain insights into open and high-priority cases to ensure that the support team resolves issues quickly and maintains customer trust.
+
+This dashboard enables executives and managers to filter by sales owner, manager, region, or product category and gain both high-level KPIs and detailed drilldowns to support data-driven business growth decisions. 
+
+The dashboard answers key business questions for the CEO:  
+✅ How are sales performing over time (won, lost, open deals)?  
+✅ Which products and campaigns generate the most revenue?  
+✅ Are revenue KPIs being met by region, sales owner, and category?  
+✅ Which companies bring the most revenue (for client appreciation initiatives)?  
+✅ How is the customer service team performing in handling cases and inquiries?  
+
+🔗 **[View the Interactive Dashboard](your-powerbi-link-here)**  
+
+---
+
+## 2️⃣ Dashboard Snapshots  
+### 📍 Sales Overview  
+![Sales Overview](your-screenshot-link-here)  
+
+### 📍 Key Factors Driving Won vs Lost Deals  
+![Key Factors](your-screenshot-link-here)  
+
+### 📍 Revenue Analysis – Performance & Contributors  
+![Revenue Analysis](your-screenshot-link-here)  
+
+### 📍 Customer Service Analysis  
+![Customer Service](your-screenshot-link-here)  
+
+---
+
+## 3️⃣ Key Insights  
+✅ **Close % Rate:** 64.5% with **12,346 total opportunities**  
+✅ **Revenue Trend:** Highest revenue months were July 2020 ($1.6M) and Jan 2021 ($1.6M)  
+✅ **Top Revenue Products:** Design App ($6.1M), Stand-up Desk ($4.5M), and Tablets ($4.1M)  
+✅ **Top Campaign Type:** Email campaigns generated the greatest potential sales value ($3.3M)  
+✅ **Top Clients:** Abbott Inc. and Abercathy & Sons – high revenue contributors worth retention focus  
+✅ **Customer Service KPIs:** Avg customer satisfaction = 4.27, Escalation Rate = 16%, SLA Compliance = 76%  
+
+---
+
+## 4️⃣ Recommendations for Business Growth  
+📌 **Focus on High-Revenue Products:** Design App, Stand-up Desk, and Tablets have the highest returns.  
+📌 **Expand Email Marketing Campaigns:** Email generates the highest potential sales value.  
+📌 **Reward Top Clients:** Provide loyalty rewards to high-value customers (Abbott Inc., Abercathy & Sons).  
+📌 **Improve Customer Service Efficiency:** Reduce resolution times (currently avg 76 mins) and escalation rates.  
+📌 **Track Open Cases:** Prioritize open and high-severity cases to improve client retention.  
+
+---
+
+## 5️⃣ Tech Stack  
+- **Power BI Desktop & Power Query** – Data cleaning and transformation  
+- **DAX Measures** – KPIs for revenue, close rate, and customer satisfaction  
+- **Data Modeling (Star Schema)** – Optimized for sales and customer service reporting  
+- **Interactive Visuals** – Drilldowns, filters, and key influencer analysis  
+
+---
+
+## 6️⃣ Project Files  
+📄 **Dashboard.pbix** – Power BI dashboard file  
+📄 **Screenshots/** – Dashboard pages (Sales, Key Factors, Revenue, Customer Service)  
+📄 **README.md** – Project documentation  
+
+
 ## 7️⃣ Author  
 👤 **Nathan Vu**  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/nathanvu091005/) | [Portfolio Website](https://www.notion.so/Data-Analytics-Data-Science-Portfolio-241e0c4d77f680e7b8a3f2bd4d54a1d5?source=copy_link)
