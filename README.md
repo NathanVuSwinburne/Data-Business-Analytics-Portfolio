@@ -65,7 +65,7 @@ This dashboard allows executives to filter by department, gender, age group, yea
 ---
 
 ## 6️⃣ Project Files  
-📄 **Dashboard.pbix** – Power BI dashboard file included in the Repo
+📄 [**Dashboard.pbix**](https://github.com/NathanVuSwinburne/Data-Business-Analytics-Portfolio/blob/main/HR%20Attrition%20Dashboard.pbix) – Power BI dashboard file included in the Repo
 📄 **README.md** – Project documentation  
 
 ---
