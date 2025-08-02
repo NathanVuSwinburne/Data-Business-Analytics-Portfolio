@@ -73,22 +73,23 @@ This dashboard allows executives to filter by department, gender, age group, yea
 # 📊 2 – Contoso Sales & Customer Service Dashboard  
 
 ## 📖 User Story – Contoso Sales & Customer Service Dashboard
-CEO department of the Contoso Ec-ommerce business need a single interactive dashboard to understand the company's sales performance and customer service efficiency so that they can make strategic decisions to boost revenue and improve client satisfaction.
+The CEO of the Contoso e-commerce business needs a single interactive dashboard to understand the company’s sales performance and customer service efficiency. This dashboard helps them track revenue trends, see which products and campaigns bring in the most sales, and check if KPIs are being met. It also shows how well the customer service team is performing, who the top revenue clients are, and which open cases need attention so the company can improve client retention and satisfaction.
 
-Goals:
-Track overall sales performance – How many opportunities are open, won, or lost? Are we meeting revenue KPIs?
+They want to:
 
-Identify which products, campaigns, and regions contribute the most revenue so we can focus resources effectively.
+See overall sales performance – how many opportunities are open, won, or lost, and whether revenue targets are being achieved.
 
-Understand deal win/loss factors – Which sales reps, discounts, and campaigns lead to the highest success rates?
+Identify which products, campaigns, and regions bring the most revenue so resources can be focused effectively.
 
-See who our top revenue-generating clients are so we can reward loyalty and strengthen relationships.
+Understand deal win/loss factors – which discounts, campaigns, or sales reps lead to higher success rates.
 
-Monitor customer service performance – Track satisfaction, escalation rates, SLA compliance, and case resolution times.
+Know who the top revenue-generating clients are so they can reward loyal customers and strengthen relationships.
 
-Gain insights into open and high-priority cases to ensure that the support team resolves issues quickly and maintains customer trust.
+Monitor customer service KPIs like satisfaction, escalation rate, SLA compliance, and resolution time.
 
-This dashboard enables executives and managers to filter by sales owner, manager, region, or product category and gain both high-level KPIs and detailed drilldowns to support data-driven business growth decisions. 
+Get visibility on open and high-priority cases to make sure issues are resolved quickly to keep customers happy.
+
+This dashboard lets executives filter by sales owner, manager, region, or product category and get both a high-level overview and detailed insights to make better business decisions.
 
 The dashboard answers key business questions for the CEO:  
 ✅ How are sales performing over time (won, lost, open deals)?  
@@ -103,16 +104,18 @@ The dashboard answers key business questions for the CEO:
 
 ## 2️⃣ Dashboard Snapshots  
 ### 📍 Sales Overview  
-![Sales Overview](your-screenshot-link-here)  
-
-### 📍 Key Factors Driving Won vs Lost Deals  
-![Key Factors](your-screenshot-link-here)  
-
-### 📍 Revenue Analysis – Performance & Contributors  
-![Revenue Analysis](your-screenshot-link-here)  
+<img width="1148" height="645" alt="1" src="https://github.com/user-attachments/assets/3e352e8e-8ff6-4ede-aff1-4c9a835f3053" />
 
 ### 📍 Customer Service Analysis  
-![Customer Service](your-screenshot-link-here)  
+
+<img width="1102" height="626" alt="2" src="https://github.com/user-attachments/assets/37e73cae-5a05-470e-a4a1-38c754dcf5e1" />
+
+### 📍 Key Factors Driving Won vs Lost Deals  
+<img width="1128" height="626" alt="3" src="https://github.com/user-attachments/assets/a86f8871-53c7-4ad5-bef0-0e95c8eadce1" />
+
+### 📍 Revenue Analysis – Performance & Contributors  
+  <img width="1152" height="648" alt="4" src="https://github.com/user-attachments/assets/d92969d9-fc39-4da5-9066-933b2f8e621a" />
+
 
 ---
 
