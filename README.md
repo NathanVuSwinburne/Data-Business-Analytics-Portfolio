@@ -56,20 +56,6 @@ This dashboard allows executives to filter by department, gender, age group, yea
 
 ---
 
-## 5️⃣ Tech Stack  
-- **Power BI Desktop & Power Query** – Data cleaning, transformation, and modeling  
-- **DAX (Data Analysis Expressions)** – KPI calculations, measures, ranking  
-- **Data Modeling (Star Schema)** – Optimized for reporting performance  
-- **Interactive Dashboard Design** – Filters, slicers, drill-down visuals  
-
----
-
-## 6️⃣ Project Files  
-📄 [**Dashboard.pbix**](https://github.com/NathanVuSwinburne/Data-Business-Analytics-Portfolio/blob/main/HR%20Attrition%20Dashboard.pbix) – Power BI dashboard file included in the Repo
-📄 **README.md** – Project documentation  
-
----
-
 # 📊 2 – Contoso Sales & Customer Service Dashboard  
 
 ## 📖 User Story – Contoso Sales & Customer Service Dashboard
@@ -92,13 +78,19 @@ Get visibility on open and high-priority cases to make sure issues are resolved 
 This dashboard lets executives filter by sales owner, manager, region, or product category and get both a high-level overview and detailed insights to make better business decisions.
 
 The dashboard answers key business questions for the CEO:  
-✅ How are sales performing over time (won, lost, open deals)?  
+✅ How are sales performing over time?  
 ✅ Which products and campaigns generate the most revenue?  
 ✅ Are revenue KPIs being met by region, sales owner, and category?  
 ✅ Which companies bring the most revenue (for client appreciation initiatives)?  
 ✅ How is the customer service team performing in handling cases and inquiries?  
+Before you click on the link to my dashboard, I want to clarify to you:
+There are 2 charts in this report that cannot be published on the web version of Power BI, so I replaced them with static screenshots on the published link.
 
-🔗 **[View the Interactive Dashboard](your-powerbi-link-here)**  
+📥 For the best experience, I highly recommend downloading the .pbix file to explore the dashboard fully and interact with all visuals.
+
+Thank you so much for checking out my work! :3
+🔗 **[View the Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTk1ZjhiMWItOTVhYS00NjhlLWIyMDAtYjU1N2M4NTdmN2M2IiwidCI6ImRmN2Y3NTc5LTNlOWMtNGE3ZS1iODQ0LTQyMDI4MGY1Mzg1OSIsImMiOjEwfQ%3D%3D&pageName=ReportSection909ea50e7939156807d6)**  
+
 
 ---
 
@@ -148,7 +140,6 @@ The dashboard answers key business questions for the CEO:
 
 ## 6️⃣ Project Files  
 📄 **Dashboard.pbix** – Power BI dashboard file  
-📄 **Screenshots/** – Dashboard pages (Sales, Key Factors, Revenue, Customer Service)  
 📄 **README.md** – Project documentation  
 
 
