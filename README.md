@@ -141,7 +141,9 @@ Thank you so much for checking out my work! :3
 ---
 
 ## Project Files  
-📄 **Dashboard.pbix** – Power BI dashboard file  
+📄 **[HR Attrition".pbix](https://github.com/NathanVuSwinburne/Data-Business-Analytics-Portfolio/blob/main/HR%20Attrition%20Dashboard.pbix)** – HR Attrition Power BI dashboard file  
+📄 **[ContosoDashboardFinal".pbix](https://github.com/NathanVuSwinburne/Data-Business-Analytics-Portfolio/blob/main/ContosoDashboardFinal.pbix)** – Contoso Sales Power BI dashboard file  
+
 📄 **README.md** – Project documentation  
 
 
