@@ -1,5 +1,5 @@
 
-# Power BI visualization Portfolio
+# Power BI visualization Portfoli
 # 📊 1 – HR Attrition Dashboard  
 
 ## 1️⃣ User Story
@@ -87,7 +87,7 @@ Before you click on the link to my dashboard, I want to clarify this to you:
 There are 2 charts in this report that cannot be published on the web version of Power BI, so I replaced them with static screenshots on the published link.
 
 📥 For the best experience, I highly recommend downloading the .pbix file to explore the dashboard fully and interact with all visuals.
-
+**[ContosoDashboardFinal".pbix](https://github.com/NathanVuSwinburne/Data-Business-Analytics-Portfolio/blob/main/ContosoDashboardFinal.pbix)**
 Thank you so much for checking out my work! :3
 
 
