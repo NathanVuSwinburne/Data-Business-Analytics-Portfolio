@@ -83,7 +83,7 @@ The dashboard answers key business questions for the CEO:
 ✅ Are revenue KPIs being met by region, sales owner, and category?  
 ✅ Which companies bring the most revenue (for client appreciation initiatives)?  
 ✅ How is the customer service team performing in handling cases and inquiries?  
-Before you click on the link to my dashboard, I want to clarify to you:
+Before you click on the link to my dashboard, I want to clarify this to you:
 There are 2 charts in this report that cannot be published on the web version of Power BI, so I replaced them with static screenshots on the published link.
 
 📥 For the best experience, I highly recommend downloading the .pbix file to explore the dashboard fully and interact with all visuals.
