@@ -110,7 +110,7 @@ Thank you so much for checking out my work! :3
 ### 📍 Revenue Analysis – Performance & Contributors  
   <img width="1152" height="648" alt="4" src="https://github.com/user-attachments/assets/d92969d9-fc39-4da5-9066-933b2f8e621a" />
 
-###  Data Modeling - Star Schema
+###  Data Modeling - Snowflake Schema
 <img width="1001" height="688" alt="image" src="https://github.com/user-attachments/assets/a361dc9a-f0f4-49ec-9c11-957d89e59785" />
 
 ---
