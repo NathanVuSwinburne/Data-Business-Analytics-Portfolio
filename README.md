@@ -58,7 +58,7 @@ This dashboard allows executives to filter by department, gender, age group, yea
 
 # 📊 2 – Contoso Sales & Customer Service Dashboard  
 
-## 📖 User Story – Contoso Sales & Customer Service Dashboard
+## 1️⃣ 📖 User Story – Contoso Sales & Customer Service Dashboard
 The CEO of the Contoso e-commerce business needs a single interactive dashboard to understand the company’s sales performance and customer service efficiency. This dashboard helps them track revenue trends, see which products and campaigns bring in the most sales, and check if KPIs are being met. It also shows how well the customer service team is performing, who the top revenue clients are, and which open cases need attention so the company can improve client retention and satisfaction.
 
 They want to:
@@ -89,6 +89,8 @@ There are 2 charts in this report that cannot be published on the web version of
 📥 For the best experience, I highly recommend downloading the .pbix file to explore the dashboard fully and interact with all visuals.
 
 Thank you so much for checking out my work! :3
+
+
 🔗 **[View the Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTk1ZjhiMWItOTVhYS00NjhlLWIyMDAtYjU1N2M4NTdmN2M2IiwidCI6ImRmN2Y3NTc5LTNlOWMtNGE3ZS1iODQ0LTQyMDI4MGY1Mzg1OSIsImMiOjEwfQ%3D%3D&pageName=ReportSection909ea50e7939156807d6)**  
 
 
@@ -130,7 +132,7 @@ Thank you so much for checking out my work! :3
 
 ---
 
-## 5️⃣ Tech Stack  
+## Tech Stack  
 - **Power BI Desktop & Power Query** – Data cleaning and transformation  
 - **DAX Measures** – KPIs for revenue, close rate, and customer satisfaction  
 - **Data Modeling (Star Schema)** – Optimized for sales and customer service reporting  
@@ -138,7 +140,7 @@ Thank you so much for checking out my work! :3
 
 ---
 
-## 6️⃣ Project Files  
+## Project Files  
 📄 **Dashboard.pbix** – Power BI dashboard file  
 📄 **README.md** – Project documentation  
 
