@@ -1,5 +1,5 @@
 
-# Power BI visualization Portfoli
+# Power BI visualization Portfolio
 # 📊 1 – HR Attrition Dashboard  
 
 ## 1️⃣ User Story
