@@ -1,5 +1,22 @@
 
-# Power BI visualization Portfolio
+# Data & Business Analytics Portfolio
+
+This portfolio contains business intelligence and data analytics projects built with multiple visualisation platforms, including **Power BI** and **Tableau**.
+
+## Featured Tableau Project
+
+### Procurement Analytics Dashboard
+
+An interactive procurement analytics solution covering executive KPIs, cost-saving opportunities, supplier concentration, and supply-chain risk.
+
+**[View the Procurement Analytics Dashboard (Tableau) repository](https://github.com/NathanVuSwinburne/procurement-analytics-dashboard-tableau/)**
+
+> The complete Tableau project documentation, dashboard previews, data preparation process, business insights, and infographic are maintained in the dedicated repository linked above.
+
+---
+
+## Power BI Projects
+
 # 📊 1 – HR Attrition Dashboard  
 
 ## 1️⃣ User Story
