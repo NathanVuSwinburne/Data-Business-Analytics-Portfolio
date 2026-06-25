@@ -1,172 +1,148 @@
-
 # Data & Business Analytics Portfolio
 
-This portfolio contains business intelligence and data analytics projects built with multiple visualisation platforms, including **Power BI** and **Tableau**.
+This portfolio demonstrates business intelligence, dashboard development, data modelling, and business insight generation using Power BI and Tableau.
 
 ## Featured Tableau Project
 
 ### Procurement Analytics Dashboard
 
-An interactive procurement analytics solution covering executive KPIs, cost-saving opportunities, supplier concentration, and supply-chain risk.
+An interactive procurement analytics solution covering executive KPIs, cost saving opportunities, supplier concentration, and supply chain risk.
 
-**[View the Procurement Analytics Dashboard (Tableau) repository](https://github.com/NathanVuSwinburne/procurement-analytics-dashboard-tableau/)**
+**[View the Procurement Analytics Dashboard repository](https://github.com/NathanVuSwinburne/procurement-analytics-dashboard-tableau/)**
 
-> The complete Tableau project documentation, dashboard previews, data preparation process, business insights, and infographic are maintained in the dedicated repository linked above.
-
----
+The dedicated repository contains the Tableau workbook documentation, dashboard previews, data preparation process, business insights, recommendations, and infographic.
 
 ## Power BI Projects
 
-# 📊 1 – HR Attrition Dashboard  
+# 1. HR Attrition Dashboard
 
-## 1️⃣ User Story
-Mr. Ryan, the Head of HR, wanted a comprehensive and interactive dashboard to analyze the company’s employees. The goal was to answer key HR questions about:
-✅ Employee demographics (race, education, age, gender)
-✅ Workforce size, attrition rate, and hiring trends
-✅ Performance review timelines and satisfaction ratings
-✅ Groups most affected by attrition and potential retention strategies
+## User Story
 
-This dashboard allows executives to filter by department, gender, age group, year, and attrition status, providing both a high-level overview and the ability to drill down into detailed insights for better decision-making.
+The Head of HR required a comprehensive interactive dashboard for analysing employees and answering business questions about:
 
-🔗 **[[View the Full Interactive Report]](https://app.powerbi.com/view?r=eyJrIjoiY2M0N2U2NGQtM2E5NC00ODc3LThkMTAtODAxMjFiZDBlNGE5IiwidCI6ImRmN2Y3NTc5LTNlOWMtNGE3ZS1iODQ0LTQyMDI4MGY1Mzg1OSIsImMiOjEwfQ%3D%3D&pageName=23985c93ca4941285647)**  
+* Employee demographics, including race, education, age, and gender
+* Workforce size, attrition rate, and hiring trends
+* Performance review timelines and satisfaction ratings
+* Groups most affected by attrition and potential retention strategies
 
----
+The dashboard allows executives to filter by department, gender, age group, year, and attrition status. It provides both an executive overview and detailed analysis to support workforce decisions.
 
-## 2️⃣ Dashboard Snapshots  
-### 📍 Employee Overview  
+**[View the interactive report](https://app.powerbi.com/view?r=eyJrIjoiY2M0N2U2NGQtM2E5NC00ODc3LThkMTAtODAxMjFiZDBlNGE5IiwidCI6ImRmN2Y3NTc5LTNlOWMtNGE3ZS1iODQ0LTQyMDI4MGY1Mzg1OSIsImMiOjEwfQ%3D%3D&pageName=23985c93ca4941285647)**
 
-<img width="1413" height="793" alt="image" src="https://github.com/user-attachments/assets/aeb5d855-0155-4b9c-baf5-2a9c9ba1e0e2" />
+## Dashboard Snapshots
 
-### 📍 Demographics  
+### Employee Overview
 
-<img width="1416" height="790" alt="image" src="https://github.com/user-attachments/assets/5f2aa328-2e92-48d5-bd2b-4ec3a8abe1e6" />
+<img width="1413" height="793" alt="HR employee overview dashboard" src="https://github.com/user-attachments/assets/aeb5d855-0155-4b9c-baf5-2a9c9ba1e0e2" />
 
+### Demographics
 
-### 📍 Attrition Analysis  
+<img width="1416" height="790" alt="HR demographics dashboard" src="https://github.com/user-attachments/assets/5f2aa328-2e92-48d5-bd2b-4ec3a8abe1e6" />
 
-<img width="1413" height="796" alt="image" src="https://github.com/user-attachments/assets/468f08d8-a6f1-42c6-81d2-baf57ad04062" />
+### Attrition Analysis
 
-### 📍 Performance Tracking  
+<img width="1413" height="796" alt="HR attrition analysis dashboard" src="https://github.com/user-attachments/assets/468f08d8-a6f1-42c6-81d2-baf57ad04062" />
 
-<img width="1413" height="792" alt="image" src="https://github.com/user-attachments/assets/9104f729-3681-450c-944b-50d8648aa884" />
+### Performance Tracking
 
-###  Data Modeling (Star Schema)
+<img width="1413" height="792" alt="HR performance tracking dashboard" src="https://github.com/user-attachments/assets/9104f729-3681-450c-944b-50d8648aa884" />
 
-<img width="832" height="717" alt="HR attrition ERD" src="https://github.com/user-attachments/assets/f97cca18-18d0-465a-8807-00a8ba98f11b" />
+### Data Modelling with a Star Schema
 
----
+<img width="832" height="717" alt="HR attrition star schema" src="https://github.com/user-attachments/assets/f97cca18-18d0-465a-8807-00a8ba98f11b" />
 
-## 3️⃣ Key Insights  
-✅ Total Employees: **1,470**  
-✅ Attrition Rate: **16.12%** (highest in Sales – 20.63%)  
-✅ Majority of employees are **20–29 years old**, with most resignations in this group.  
-✅ Employees **without stock options** are more likely to leave.  
-✅ White employees have the **highest average salary ($115k)**, while "Other" group has the lowest ($101k).  
+## Key Insights
 
----
+* Total employees: **1,470**
+* Attrition rate: **16.12%**, with the highest departmental rate in Sales at **20.63%**
+* Employees aged **20 to 29** formed the largest age group and recorded the most resignations
+* Employees without stock options showed higher attrition
+* White employees had the highest average salary at **$115,000**, while the Other group had the lowest at **$101,000**
 
-## 4️⃣ Recommendations to Reduce Attrition  
-📌 **Introduce stock options or bonuses** – Higher attrition among employees with no stock options.  
-📌 **Enhance career growth for younger employees** – Mentorship and training programs.  
-📌 **Focus on Sales & HR departments** – These teams have the highest attrition rates.  
-📌 **Monitor job satisfaction closely** – Self-rating and job satisfaction show downward trends.  
+## Recommendations
 
----
+* Introduce stock options or performance bonuses for eligible employees
+* Strengthen career development, mentorship, and training for younger employees
+* Prioritise retention initiatives within Sales and HR
+* Monitor job satisfaction and employee self ratings for declining trends
 
-# 📊 2 – Contoso Sales & Customer Service Dashboard  
+# 2. Contoso Sales & Customer Service Dashboard
 
-## 1️⃣ 📖 User Story – Contoso Sales & Customer Service Dashboard
-The CEO of the Contoso e-commerce business needs a single interactive dashboard to understand the company’s sales performance and customer service efficiency. This dashboard helps them track revenue trends, see which products and campaigns bring in the most sales, and check if KPIs are being met. It also shows how well the customer service team is performing, who the top revenue clients are, and which open cases need attention so the company can improve client retention and satisfaction.
+## User Story
 
-They want to:
+The CEO of the Contoso ecommerce business required a single interactive dashboard for understanding sales performance and customer service efficiency.
 
-See overall sales performance – how many opportunities are open, won, or lost, and whether revenue targets are being achieved.
+The dashboard was designed to:
 
-Identify which products, campaigns, and regions bring the most revenue so resources can be focused effectively.
+* Track open, won, and lost opportunities against revenue targets
+* Identify the products, campaigns, and regions generating the most revenue
+* Analyse factors affecting won and lost deals
+* Identify the highest revenue clients for retention initiatives
+* Monitor customer satisfaction, escalation rate, SLA compliance, and resolution time
+* Highlight open and high priority cases requiring attention
 
-Understand deal win/loss factors – which discounts, campaigns, or sales reps lead to higher success rates.
+Executives can filter results by sales owner, manager, region, and product category to move between company level KPIs and detailed analysis.
 
-Know who the top revenue-generating clients are so they can reward loyal customers and strengthen relationships.
+Two report visuals are not supported by the public Power BI web version and are represented by static screenshots. Download the PBIX file for the complete interactive report.
 
-Monitor customer service KPIs like satisfaction, escalation rate, SLA compliance, and resolution time.
+**[Download the Contoso PBIX file](https://github.com/NathanVuSwinburne/Data-Business-Analytics-Portfolio/blob/main/ContosoDashboardFinal.pbix)**
 
-Get visibility on open and high-priority cases to make sure issues are resolved quickly to keep customers happy.
+**[View the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTk1ZjhiMWItOTVhYS00NjhlLWIyMDAtYjU1N2M4NTdmN2M2IiwidCI6ImRmN2Y3NTc5LTNlOWMtNGE3ZS1iODQ0LTQyMDI4MGY1Mzg1OSIsImMiOjEwfQ%3D%3D&pageName=ReportSection909ea50e7939156807d6)**
 
-This dashboard lets executives filter by sales owner, manager, region, or product category and get both a high-level overview and detailed insights to make better business decisions.
+## Dashboard Snapshots
 
-The dashboard answers key business questions for the CEO:  
-✅ How are sales performing over time?  
-✅ Which products and campaigns generate the most revenue?  
-✅ Are revenue KPIs being met by region, sales owner, and category?  
-✅ Which companies bring the most revenue (for client appreciation initiatives)?  
-✅ How is the customer service team performing in handling cases and inquiries?  
-Before you click on the link to my dashboard, I want to clarify this to you:
-There are 2 charts in this report that cannot be published on the web version of Power BI, so I replaced them with static screenshots on the published link.
+### Sales Overview
 
-📥 For the best experience, I highly recommend downloading the .pbix file to explore the dashboard fully and interact with all visuals.
-**[ContosoDashboardFinal](https://github.com/NathanVuSwinburne/Data-Business-Analytics-Portfolio/blob/main/ContosoDashboardFinal.pbix)**
-Thank you so much for checking out my work! :3
+<img width="1148" height="645" alt="Contoso sales overview dashboard" src="https://github.com/user-attachments/assets/3e352e8e-8ff6-4ede-aff1-4c9a835f3053" />
 
+### Customer Service Analysis
 
-🔗 **[View the Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTk1ZjhiMWItOTVhYS00NjhlLWIyMDAtYjU1N2M4NTdmN2M2IiwidCI6ImRmN2Y3NTc5LTNlOWMtNGE3ZS1iODQ0LTQyMDI4MGY1Mzg1OSIsImMiOjEwfQ%3D%3D&pageName=ReportSection909ea50e7939156807d6)**  
+<img width="1102" height="626" alt="Contoso customer service dashboard" src="https://github.com/user-attachments/assets/37e73cae-5a05-470e-a4a1-38c754dcf5e1" />
 
+### Factors Driving Won and Lost Deals
 
----
+<img width="1128" height="626" alt="Contoso deal outcome analysis" src="https://github.com/user-attachments/assets/a86f8871-53c7-4ad5-9066-933b2f8e621a" />
 
-## 2️⃣ Dashboard Snapshots  
-### 📍 Sales Overview  
-<img width="1148" height="645" alt="1" src="https://github.com/user-attachments/assets/3e352e8e-8ff6-4ede-aff1-4c9a835f3053" />
+### Revenue Performance and Contributors
 
-### 📍 Customer Service Analysis  
+<img width="1152" height="648" alt="Contoso revenue analysis dashboard" src="https://github.com/user-attachments/assets/d92969d9-fc39-4da5-9066-933b2f8e621a" />
 
-<img width="1102" height="626" alt="2" src="https://github.com/user-attachments/assets/37e73cae-5a05-470e-a4a1-38c754dcf5e1" />
+### Data Modelling with a Snowflake Schema
 
-### 📍 Key Factors Driving Won vs Lost Deals  
-<img width="1128" height="626" alt="3" src="https://github.com/user-attachments/assets/a86f8871-53c7-4ad5-bef0-0e95c8eadce1" />
+<img width="1001" height="688" alt="Contoso snowflake schema" src="https://github.com/user-attachments/assets/a361dc9a-f0f4-49ec-9c11-957d89e59785" />
 
-### 📍 Revenue Analysis – Performance & Contributors  
-  <img width="1152" height="648" alt="4" src="https://github.com/user-attachments/assets/d92969d9-fc39-4da5-9066-933b2f8e621a" />
+## Key Insights
 
-###  Data Modeling - Snowflake Schema
-<img width="1001" height="688" alt="image" src="https://github.com/user-attachments/assets/a361dc9a-f0f4-49ec-9c11-957d89e59785" />
+* Close rate: **64.5%** across **12,346 opportunities**
+* Highest monthly revenue: **$1.6 million** in July 2020 and January 2021
+* Highest revenue products: Design App at **$6.1 million**, Stand up Desk at **$4.5 million**, and Tablets at **$4.1 million**
+* Email campaigns generated the highest potential sales value at **$3.3 million**
+* Abbott Inc. and Abercathy & Sons were leading revenue contributors
+* Average customer satisfaction was **4.27**, escalation rate was **16%**, and SLA compliance was **76%**
 
----
+## Recommendations
 
-## 3️⃣ Key Insights  
-✅ **Close % Rate:** 64.5% with **12,346 total opportunities**  
-✅ **Revenue Trend:** Highest revenue months were July 2020 ($1.6M) and Jan 2021 ($1.6M)  
-✅ **Top Revenue Products:** Design App ($6.1M), Stand-up Desk ($4.5M), and Tablets ($4.1M)  
-✅ **Top Campaign Type:** Email campaigns generated the greatest potential sales value ($3.3M)  
-✅ **Top Clients:** Abbott Inc. and Abercathy & Sons – high revenue contributors worth retention focus  
-✅ **Customer Service KPIs:** Avg customer satisfaction = 4.27, Escalation Rate = 16%, SLA Compliance = 76%  
+* Prioritise high revenue products in sales and inventory planning
+* Expand email marketing campaigns based on their potential sales value
+* Develop retention initiatives for leading revenue clients
+* Reduce customer service resolution times and escalation rates
+* Prioritise open and high severity cases
 
----
+## Tech Stack
 
-## 4️⃣ Recommendations for Business Growth  
-📌 **Focus on High-Revenue Products:** Design App, Stand-up Desk, and Tablets have the highest returns.  
-📌 **Expand Email Marketing Campaigns:** Email generates the highest potential sales value.  
-📌 **Reward Top Clients:** Provide loyalty rewards to high-value customers (Abbott Inc., Abercathy & Sons).  
-📌 **Improve Customer Service Efficiency:** Reduce resolution times (currently avg 76 mins) and escalation rates.  
-📌 **Track Open Cases:** Prioritize open and high-severity cases to improve client retention.  
+* **Power BI Desktop and Power Query:** Data cleaning and transformation
+* **DAX measures:** Revenue, close rate, customer satisfaction, and service KPIs
+* **Data modelling:** Star and snowflake schemas supporting HR, sales, and customer service reporting
+* **Interactive reporting:** Filters, drilldowns, decomposition trees, and key influencer analysis
 
----
+## Project Files
 
-## Tech Stack  
-- **Power BI Desktop & Power Query** – Data cleaning and transformation  
-- **DAX Measures** – KPIs for revenue, close rate, and customer satisfaction  
-- **Data Modeling (Star Schema)** – Optimized for sales and customer service reporting  
-- **Interactive Visuals** – Drilldowns, filters, and key influencer analysis  
+* **[HR Attrition Dashboard PBIX](https://github.com/NathanVuSwinburne/Data-Business-Analytics-Portfolio/blob/main/HR%20Attrition%20Dashboard.pbix):** HR analytics report
+* **[Contoso Dashboard PBIX](https://github.com/NathanVuSwinburne/Data-Business-Analytics-Portfolio/blob/main/ContosoDashboardFinal.pbix):** Sales and customer service report
+* **README.md:** Project documentation
 
----
+## Author
 
-## Project Files  
-📄 **[HR Attrition".pbix](https://github.com/NathanVuSwinburne/Data-Business-Analytics-Portfolio/blob/main/HR%20Attrition%20Dashboard.pbix)** – HR Attrition Power BI dashboard file  
-📄 **[ContosoDashboardFinal".pbix](https://github.com/NathanVuSwinburne/Data-Business-Analytics-Portfolio/blob/main/ContosoDashboardFinal.pbix)** – Contoso Sales Power BI dashboard file  
+**Nathan Vu**
 
-📄 **README.md** – Project documentation  
-
-
-## 7️⃣ Author  
-👤 **Nathan Vu**  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/nathanvu091005/) | [Portfolio Website](https://www.notion.so/Data-Analytics-Data-Science-Portfolio-241e0c4d77f680e7b8a3f2bd4d54a1d5?source=copy_link)
-
+[LinkedIn Profile](https://www.linkedin.com/in/nathanvu091005/) | [Portfolio Website](https://www.notion.so/Data-Analytics-Data-Science-Portfolio-241e0c4d77f680e7b8a3f2bd4d54a1d5?source=copy_link)
